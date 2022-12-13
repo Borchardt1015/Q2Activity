@@ -1,0 +1,31 @@
+body{
+	background-color: beige;
+}
+h1{
+	font-family: Tahoma;
+	color: red;
+	letter-spacing: 2px;
+	text-transform: uppercase;
+	text-shadow: 2px 2px orange;
+	background-color: yellow;
+	text-indent: center; 
+}
+
+h2{
+	font-family: Tahoma;
+	color: yellow;
+	letter-spacing: 2px;
+	text-transform: uppercase;
+	text-shadow: 2px 2px orange;
+	background-color: darkred;
+	text-indent: center; 
+	text-decoration: underline;
+	margin: 50px;
+}
+td{
+	height: 225px;
+	border-color: yellow;
+	border-width: 5px;
+	padding: 20px;
+	border-style: solid;
+}
